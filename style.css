@@ -54,3 +54,15 @@
   --mobile-search-submit-bg: #999;
   --mobile-search-submit-font: #222;
 }
+
+.intranet-menu {
+  display: flex;
+  justify-content: space-between;
+  max-height: 450px;
+}
+.intranet-menu a {
+  display: inline-block;
+  background: #bf0000;
+  color: #fff;
+  padding: .25rem 1rem;
+}
