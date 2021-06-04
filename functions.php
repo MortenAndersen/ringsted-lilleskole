@@ -32,4 +32,12 @@ function ringsted_intra_link() {
     echo '</nav>';
 }
 
+// Social Icon
 
+function web_social_menu()
+    {
+    echo '<div class="social">';
+        echo '<a href="https://www.facebook.com/ringstedlilleskole" target="_blank"><img src="' . get_stylesheet_directory_uri() . '/img/facebook.svg" alt="Facebook"></a>';
+    echo '</div>';
+
+    }
