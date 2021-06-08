@@ -1,0 +1,939 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"g",
+				"g-d-4"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"sli",
+				"slideToggle\t.slideToggle()"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"cl",
+				"closest\t.closest()"
+			],
+			[
+				"ad",
+				"addClass\t.addClass()"
+			],
+			[
+				"border",
+				"border-top\tproperty"
+			],
+			[
+				"su",
+				"sub-menu"
+			],
+			[
+				"menu",
+				"menu-icon"
+			],
+			[
+				"base",
+				"dominant-baseline\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"co",
+				"columns\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"or",
+				"order\tproperty"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"to",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"fle",
+				"flex\tproperty"
+			],
+			[
+				"al",
+				"align-self\tproperty"
+			],
+			[
+				"ord",
+				"orderby"
+			],
+			[
+				"fel",
+				"flex-flow\tproperty"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"sel",
+				"align-self\tproperty"
+			],
+			[
+				"p",
+				"personer"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"l",
+				"left\tproperty"
+			],
+			[
+				"fil",
+				"fill\tproperty"
+			],
+			[
+				"mx",
+				"max-width\tproperty"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"backgro",
+				"background-repeat\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"fl",
+				"flex\tproperty"
+			],
+			[
+				"txt",
+				"text2"
+			],
+			[
+				"end",
+				"endwhile"
+			],
+			[
+				"get_optin",
+				"get_option"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"custom",
+				"custom-header"
+			],
+			[
+				"ca",
+				"caption"
+			],
+			[
+				"si",
+				"site_title"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ch",
+				"children\t.children()"
+			],
+			[
+				"ac",
+				"active-trail"
+			],
+			[
+				"rem",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"da",
+				"date_now"
+			],
+			[
+				"hide",
+				"hide-end-time"
+			],
+			[
+				"grid",
+				"grid-padding"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"simple",
+				"simple-grid-con"
+			],
+			[
+				"sim",
+				"simple-grid-con"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"wor",
+				"workshop"
+			],
+			[
+				"array_",
+				"array_diff"
+			],
+			[
+				"the",
+				"the_category"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"the_",
+				"the_date"
+			],
+			[
+				"the_po",
+				"the_post_thumbnail"
+			],
+			[
+				"flex",
+				"flex-item"
+			],
+			[
+				"fi",
+				"file_head\tWordPress File Header"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"f",
+				"flex-end"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"S",
+				"Shangies"
+			],
+			[
+				"L",
+				"Laursen"
+			],
+			[
+				"Vat",
+				"vattaeppe"
+			],
+			[
+				"ie",
+				"item3"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"toggle",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"fonts",
+				"font-style: "
+			],
+			[
+				"backr",
+				"background: "
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fin",
+				"finish\t.finish()"
+			],
+			[
+				"ap",
+				"appendTo\t.appendTo()"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"bot",
+				"both"
+			],
+			[
+				"cont",
+				"content: "
+			],
+			[
+				"dis",
+				"display: "
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"tog",
+				"toggle\t.toggle()"
+			],
+			[
+				"o",
+				"outline"
+			],
+			[
+				"Ma",
+				"masonry"
+			],
+			[
+				"colu",
+				"column-count: "
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: men",
+				"Snippet: menu2"
+			],
+			[
+				"Snippet: htm",
+				"Snippet: Blank HTML Page"
+			],
+			[
+				"Snippet: ",
+				"Snippet: menu2"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"File: Close All"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/ringsted-lilleskole"
+	],
+	"file_history":
+	[
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/footer.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/layout.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/fonts.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/root.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/js/starter.js",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/page-cs.php",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/form.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/wp.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/bx-slider.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/header.php",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/flex.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/grid.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/functions.php",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/js/theme.js",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/inc/web-functions.php",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/inc/widgets.php",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/template-parts/nav/main-menu.php",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/menu-mobile.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/elements.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/social.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/img/twitter.svg",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/img/youtube.svg",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/img/facebook.svg",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/img/linkedin.svg",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/menu-desktop.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/reset.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/style.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/menu-icon.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/img/menu-icon-close.php",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/img/menu-icon.svg",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/img/menu-icon.php",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/elements/color.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/template-parts/content/post-article.php",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/template-parts/content/post-article-no-wrap.php",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/template-parts/content/page-article-no-wrap.php",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/scss/elements/size.scss",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/footer.php",
+		"/Users/morten/Library/Application Support/Sublime Text/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/index.php",
+		"/Users/morten/Sites/localhost/starter/wp-content/themes/web/template-parts/content/page-main.php",
+		"/Users/morten/Sites/localhost/blikroer.dk/web/themes/blikroer/scss/nav.scss",
+		"/Users/morten/Sites/localhost/blikroer.dk/web/themes/blikroer/templates/field/field--field-video-link.html.twig",
+		"/Users/morten/Sites/localhost/blikroer.dk/web/themes/blikroer/js/blikroer.js",
+		"/Users/morten/Sites/localhost/blikroer.dk/web/themes/blikroer/scss/menu.scss",
+		"/Users/morten/Documents/HTML/starter/scss/elements/breakpoints.scss",
+		"/Users/morten/Documents/HTML/starter/scss/fonts.scss",
+		"/Users/morten/Documents/HTML/starter/index.html",
+		"/Users/morten/Documents/HTML/starter/scss/bx-slider.scss",
+		"/Users/morten/Documents/HTML/starter/js/theme.js",
+		"/Users/morten/Documents/HTML/starter/js/theme-min.js",
+		"/Users/morten/Documents/HTML/starter/js/fitvids.js",
+		"/Users/morten/Documents/HTML/starter/js/starter.js",
+		"/Users/morten/Documents/HTML/starter/scss/lightbox.scss",
+		"/Users/morten/Documents/HTML/starter/scss/menu-icon.scss",
+		"/Users/morten/Documents/HTML/starter/scss/style.scss",
+		"/Users/morten/Documents/HTML/starter/scss/grid.scss",
+		"/Users/morten/Documents/HTML/starter/scss/menu-desktop.scss",
+		"/Users/morten/Documents/HTML/starter/scss/layout.scss",
+		"/Users/morten/Documents/HTML/starter/scss/flex.scss",
+		"/Users/morten/Documents/HTML/starter/scss/elements/color.scss",
+		"/Users/morten/Documents/HTML/starter/scss/menu-mobile.scss",
+		"/Users/morten/Documents/HTML/starter/scss/elements/fonts.scss",
+		"/Users/morten/Documents/HTML/starter/scss/form.scss",
+		"/Users/morten/Documents/HTML/starter/style.css",
+		"/Users/morten/Documents/HTML/starter/scss/viewport.scss",
+		"/Users/morten/Documents/HTML/starter/scss/normalize.scss",
+		"/Users/morten/Documents/HTML/starter/scss/reset.scss",
+		"/Users/morten/Downloads/ignition-master/style.css",
+		"/Users/morten/Sites/localhost/blikroer.dk/web/themes/blikroer/scss/style.scss",
+		"/Users/morten/Sites/localhost/blikroer.dk/web/themes/blikroer/scss/video.scss",
+		"/Users/morten/Sites/localhost/blikroer.dk/web/themes/blikroer/scss/form.scss",
+		"/Users/morten/Sites/localhost/blikroer.dk/web/themes/blikroer/scss/form.css",
+		"/Users/morten/Downloads/wc-product-export-19-4-2021-1618829045512.csv",
+		"/Users/morten/Sites/localhost/hjemmesider/wp-content/themes/hjemmesider/page.php",
+		"/Users/morten/Sites/localhost/hjemmesider/wp-content/themes/hjemmesider/scss/hjemmesider.scss",
+		"/Users/morten/Sites/localhost/hjemmesider/wp-content/themes/hjemmesider/single.php",
+		"/Users/morten/Sites/localhost/hjemmesider/wp-content/themes/hjemmesider/footer.php",
+		"/Users/morten/Sites/localhost/hjemmesider/wp-content/themes/hjemmesider/page-bred.php",
+		"/Users/morten/Sites/localhost/hjemmesider/wp-content/themes/hjemmesider/functions.php",
+		"/Users/morten/Sites/localhost/hjemmesider/wp-content/themes/hjemmesider/index.php",
+		"/Users/morten/Sites/localhost/hjemmesider/wp-content/themes/hjemmesider/menu-mobile.php",
+		"/Users/morten/Sites/localhost/hjemmesider/wp-content/themes/hjemmesider/single-reference.php",
+		"/Users/morten/Sites/localhost/hjemmesider/wp-content/themes/hjemmesider/XXpage-ydelser.php",
+		"/Users/morten/Sites/localhost/hjemmesider/wp-content/themes/hjemmesider/footer-blog.php",
+		"/Users/morten/Sites/localhost/blikroer.dk/web/themes/blikroer/scss/frontpage_elements.scss",
+		"/Users/morten/Sites/localhost/blikroer.dk/web/themes/blikroer/scss/banner.scss",
+		"/Users/morten/Sites/localhost/blikroer.dk/web/themes/blikroer/css/drupal.css",
+		"/Users/morten/Sites/localhost/blikroer.dk/web/themes/blikroer/scss/design.scss",
+		"/Users/morten/Sites/localhost/blikroer.dk/web/themes/blikroer/scss/elements.scss",
+		"/Users/morten/Desktop/leder/index.html",
+		"/Users/morten/Sites/localhost/mother/wp-content/plugins/slotsguide/css/style.css",
+		"/Users/morten/Sites/localhost/mother/wp-content/plugins/slotsguide/config.codekit3",
+		"/Users/morten/Sites/localhost/mother/wp-content/plugins/slotsguide/slotsguide.sublime-project",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/sorbase/scss/form.scss",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/sorbase/config.codekit3",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/sorbase/.gitignore",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/sorbase/scss/sorstyle.scss",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-events/SimpleEvents.sublime-project",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/sorbase/scss/module.scss",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/sorbase/scss/font.scss",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/sorbase/scss/form.scss",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/scss/footer.scss",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/footer.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/scss/menu.scss",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/scss/layout.scss",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/header.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/index.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/template/main-menu.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/scss/header.scss",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/img/facebook.svg",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/scss/elements.scss",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/scss/style.scss",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/functions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/inc/widget.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/js/theme.js",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/template/menu-icon.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/img/logo.svg",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/finctions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/agroalliancen/template/menu.php",
+		"/Applications/MAMP/htdocs/blikroer.dk/web/themes/blikroer/scss/event.scss",
+		"/Users/morten/Desktop/Dam/<meta name=\"theme-color\" content=\"#616a75\">",
+		"/Applications/MAMP/htdocs/blikroer.dk/web/themes/blikroer/scss/elements.scss",
+		"/Applications/MAMP/htdocs/blikroer.dk/web/themes/blikroer/templates/content/node.html.twig",
+		"/Applications/MAMP/htdocs/blikroer.dk/web/themes/blikroer/templates/layout/page.html.twig",
+		"/Applications/MAMP/htdocs/blikroer.dk/web/themes/blikroer/scss/views-grid.scss",
+		"/Applications/MAMP/htdocs/blikroer.dk/web/themes/blikroer/scss/form.scss",
+		"/Applications/MAMP/htdocs/blikroer.dk/web/themes/blikroer/templates/layout/region--parallax05.html.twig"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 144.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 114.0
+	},
+	"output.exec":
+	{
+		"height": 555.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ringsted-lilleskole.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/morten/Google Drive/Granhøjen/GTS/gts/gts-drupal-theme.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 366.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

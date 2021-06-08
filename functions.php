@@ -9,7 +9,7 @@ add_action( 'wp_enqueue_scripts', 'stc_enqueue_styles' );
 
 // Header style
 function web_header_style() {
-    echo 'a-center';
+    echo 'wrap a-center';
 }
 
 /*

@@ -6,6 +6,7 @@
  Template: web
  Version: 1
  */
+
 :root {
   --body-bg: #f0f0f0;
   --body-font: #333;
@@ -51,19 +52,25 @@
   --mobile-search-text-font: #fff;
   --mobile-search-text-focus-bg: #666;
   --mobile-search-submit-bg: #999;
-  --mobile-search-submit-font: #222; }
+  --mobile-search-submit-font: #222;
+}
 
 .intranet-menu {
   display: flex;
   justify-content: space-between;
-  max-width: 450px; }
-
+  max-width: 450px;
+}
 .intranet-menu a {
   display: inline-block;
   background: #bf0000;
   color: #fff;
-  padding: .5rem 1rem; }
+  padding: .5rem 1rem;
+}
 
 @media (min-width: 1100px) {
-  .menu .has-sub {
-    background-image: url(img/has-sub.svg); } }
+    .menu {
+        .has-sub {
+            background-image: url(img/has-sub.svg);
+        }
+    }
+}
