@@ -65,6 +65,19 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
+	"/img/ringsted-bg.jpg": {
+		"ft": 16384,
+		"iS": 683842,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ringsted-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/img/twitter.svg": {
 		"ft": 2097152,
 		"miP": 0,

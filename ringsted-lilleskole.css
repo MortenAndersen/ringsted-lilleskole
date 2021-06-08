@@ -56,9 +56,22 @@
   --mobile-search-submit-bg: #999;
   --mobile-search-submit-font: #222; }
 
+body {
+  background-image: url(img/ringsted-bg.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.page-header .wrap {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+main {
+  background: none;
+}
 .intranet-menu {
   display: flex;
-  background-color: #e46308;
+    border-bottom: 1px solid;
+    flex-direction: row-reverse;
    }
 
 .intranet-menu a {
