@@ -23,8 +23,11 @@
   --menu-desktop-font: #222;
   --menu-desktop-sub-font: #fff;
   --menu-desktop-sub-bg: #bf0000;
-  --menu-desktop-sub-hover-bg: #8c0000;
+  --menu-desktop-sub-hover-bg: rgba(0,0,0,.2);
+  --menu-desktop-sub-pad-side: 1rem;
   --menu-desktop-sub-border: #eee;
+  --menu-desktop-sub-current-bg: rgba(0,0,0,.3);
+  --menu-desktop-sub-current-font: #fff;
   --menu-mobile-bg: #262626;
   --menu-mobile-sub-bg: rgba(0,0,0,.2);
   --menu-mobile-border: #b2b2b2;
