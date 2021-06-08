@@ -9,9 +9,9 @@
 
 <body <?php body_class();?>>
   <?php wp_body_open();?>
-
+<?php ringsted_intra_link(); ?>
 <header class="page-header <?php web_header_sticky();?>">
-	<?php ringsted_intra_link(); ?>
+	
 	<div class="flex <?php web_header_style(); ?>">
 		<?php web_logo();?>
 			<div class="menu-icon">
