@@ -63,7 +63,7 @@
   text-transform: uppercase;
   color: #be1e2d;
   font-weight: bold;
-  padding: 0 1rem; }
+  max-width: 100px; }
 
 .a-center {
   padding: 1rem 2rem 0 2rem;
