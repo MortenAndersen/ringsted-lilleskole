@@ -16,7 +16,7 @@ function web_header_style() {
 // Menu desktop align
 function web_menu_pos()
     {
-        echo 'right-align';
+        echo 'left-align';
     }
 
 function ringsted_intra_link() {

@@ -62,7 +62,8 @@
   font-size: .9rem;
   text-transform: uppercase;
   color: #be1e2d;
-  font-weight: bold; }
+  font-weight: bold;
+  padding: 0 1rem; }
 
 .a-center {
   padding: 1rem 2rem 0 2rem;
