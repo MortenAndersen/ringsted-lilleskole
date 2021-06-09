@@ -12,6 +12,12 @@ function web_header_style() {
     echo 'a-center';
 }
 
+// Menu desktop align
+function web_menu_pos()
+    {
+        echo 'right-align';
+    }
+
 function ringsted_intra_link() {
     echo '<nav class="intranet-menu">';
         echo '<a href="http://www.ringsted-lilleskole.skoleintra.dk/Li" target="_blank" class="intra">PersonaleIntra</a>';
