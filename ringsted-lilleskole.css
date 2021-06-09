@@ -78,6 +78,7 @@
 
 .sticky-header {
     box-shadow: 0 0 20px rgba(0, 0, 0, .25);
+    border-bottom: 1px solid #b3b3b3;
 }
 
 .intranet-menu {
@@ -152,4 +153,10 @@
     .menu .has-sub {
         background-image: url(img/has-sub.svg);
     }
+}
+.front-parallax {
+    background-image: url(img/ringsted-parallax.jpg);
+    color: #fff;
+    text-align: right;
+    text-shadow: 1px 1px #7d7c7c;
 }
