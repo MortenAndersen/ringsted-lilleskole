@@ -1,11 +1,12 @@
 <?php
 
+
 // CSS
-function stc_enqueue_styles() {
+
+function web_child_enqueue_styles() {
    wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );
 }
-add_action( 'wp_enqueue_scripts', 'stc_enqueue_styles' );
-
+add_action( 'wp_enqueue_scripts', 'web_child_enqueue_styles' );
 
 // Header style
 function web_header_style() {

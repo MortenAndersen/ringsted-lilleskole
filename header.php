@@ -14,6 +14,7 @@
 	
 	<div class="flex <?php web_header_style(); ?>">
 		<?php web_logo();?>
+		<div class="name">Ringsted Lilleskole</div>
 			<div class="menu-icon">
 				<?php get_template_part('img/menu', 'icon');?>
 			</div>

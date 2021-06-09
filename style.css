@@ -18,18 +18,18 @@
   --link: #0073e5;
   --link-hover: #111;
   --border: #eee;
-  --blockquote: rgba(0,0,0,.1);
+  --blockquote: rgba(0, 0, 0, .1);
   --menu-desktop-bg: #c8d3d4;
   --menu-desktop-font: #222;
   --menu-desktop-sub-font: #fff;
   --menu-desktop-sub-bg: #BE1E2D;
-  --menu-desktop-sub-hover-bg: rgba(0,0,0,.2);
+  --menu-desktop-sub-hover-bg: rgba(0, 0, 0, .2);
   --menu-desktop-sub-pad-side: 1rem;
   --menu-desktop-sub-border: #eee;
-  --menu-desktop-sub-current-bg: rgba(0,0,0,.3);
+  --menu-desktop-sub-current-bg: rgba(0, 0, 0, .3);
   --menu-desktop-sub-current-font: #fff;
   --menu-mobile-bg: #262626;
-  --menu-mobile-sub-bg: rgba(0,0,0,.2);
+  --menu-mobile-sub-bg: rgba(0, 0, 0, .2);
   --menu-mobile-border: #b2b2b2;
   --menu-mobile-trigger-bg: transparent;
   --menu-mobile-trigger-active-bg: #b88a0852;
@@ -55,6 +55,14 @@
   --mobile-search-text-focus-bg: #666;
   --mobile-search-submit-bg: #999;
   --mobile-search-submit-font: #222; }
+
+.name {
+  text-align: center;
+  flex: 1;
+  font-size: .9rem;
+  text-transform: uppercase;
+  color: #be1e2d;
+  font-weight: bold; }
 
 .a-center {
   padding: 1rem 2rem 0 2rem;
