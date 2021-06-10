@@ -20,7 +20,7 @@
   --border: #eee;
   --blockquote: rgba(0, 0, 0, .1);
   --menu-desktop-bg: #c8d3d4;
-  --menu-desktop-font: #222;
+  --menu-desktop-font: #000;
   --menu-desktop-sub-font: #fff;
   --menu-desktop-sub-bg: #BE1E2D;
   --menu-desktop-sub-hover-bg: rgba(0, 0, 0, .2);
@@ -56,15 +56,18 @@
   --mobile-search-submit-bg: #999;
   --mobile-search-submit-font: #222; }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Architects Daughter', cursive; }
+
 .name {
   text-align: center;
   flex: 1;
-  font-size: .9rem;
+  font-size: 1.2rem;
   text-transform: uppercase;
   color: #be1e2d;
-  font-weight: bold;
-  max-width: 100px;
-  margin-right: 2rem; }
+  max-width: 125px;
+  margin-right: 2rem;
+  font-family: 'Architects Daughter', cursive; }
 
 .logo {
   margin-bottom: 1rem; }
@@ -138,7 +141,9 @@
   .menu {
     align-self: flex-end;
     font-size: .9rem;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    border-top: 1px solid #a5a5a5;
+    font-family: 'Asap Condensed', sans-serif; }
   .menu .has-sub {
     background-image: url(img/has-sub.svg); } }
 
