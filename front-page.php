@@ -35,7 +35,7 @@ echo '</section>'; ?>
 <section class="parallax front-parallax aligner">
 	<div class="wrap flex">
 
-				<h3 class="f-xl f-xxl-tab f-xxxl-desk bold">Ringsted lilleskole<br />- fordi vores børn er vigtige</h3>
+				<h3 class="f-xxl f-xxxl-desk">Ringsted lilleskole<br />- fordi vores børn er vigtige</h3>
 
 	</div>
 </section>

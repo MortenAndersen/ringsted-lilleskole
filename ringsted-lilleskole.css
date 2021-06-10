@@ -55,10 +55,12 @@
     --mobile-search-text-focus-bg: #666;
     --mobile-search-submit-bg: #999;
     --mobile-search-submit-font: #222;
+    --xxxl:  4.5rem;
 }
 h1,h2,h3,h4,h5,h6 {
  font-family: 'Architects Daughter', cursive;
  font-weight: 400;
+ color: #000;
 }
 .widget-title {
     font-weight: 400;
@@ -178,6 +180,9 @@ h1,h2,h3,h4,h5,h6 {
     color: #fff;
     text-align: right;
     text-shadow: 1px 1px #7d7c7c;
+}
+.front-parallax h3 {
+    color: #fff;
 }
 .page-footer .menu li {
     border-bottom: 1px solid #bfbfbf;
