@@ -23,7 +23,7 @@ Eftermiddag 12.45 – 17.00<br>
 <?php
 		echo '</div>';
 		echo '<div class="col-1">';
-			echo '<h3>Nyheder</h3>';
+			echo '<h4 class="widget-title">Nyheder</h4>';
 		echo '</div>';
 	echo '</div>';
 echo '</section>'; ?>

@@ -54,8 +54,7 @@
   --mobile-search-text-font: #fff;
   --mobile-search-text-focus-bg: #666;
   --mobile-search-submit-bg: #999;
-  --mobile-search-submit-font: #222;
-  --xxxl:  4.5rem; }
+  --mobile-search-submit-font: #222; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Architects Daughter', cursive;
@@ -64,7 +63,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .widget-title {
   font-weight: 400;
-  font-size: 1.3rem; }
+  font-size: 1.3rem;
+  border-bottom: 1px solid #b3b3b3; }
 
 .name {
   text-align: center;
