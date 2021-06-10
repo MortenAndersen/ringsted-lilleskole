@@ -38,7 +38,7 @@
   --menu-icon: #111;
   --menu-icon-hover: #555;
   --menu-icon-close: #fff;
-  --bg-color-1: #AD0909;
+  --bg-color-1: #BE1E2D;
   --bg-color-font-1: #fff;
   --bg-color-2: #DB6102;
   --bg-color-font-2: #fff;
@@ -80,7 +80,7 @@
 .intranet-menu {
   display: flex;
   flex-direction: column;
-  background-color: #BE1E2D; }
+  background-color: var(--bg-color-1); }
 
 @media (min-width: 500px) {
   .intranet-menu {
@@ -138,3 +138,6 @@
   color: #fff;
   text-align: right;
   text-shadow: 1px 1px #7d7c7c; }
+
+.page-footer .menu li {
+  border-bottom: 1px solid #bfbfbf; }
