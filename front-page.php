@@ -2,7 +2,7 @@
 get_header();
 
 echo '<section class="bg-color-xxx">';
-	echo '<div class="wrap grid g-d-3 gap-4 pad-4">';
+	echo '<div class="wrap grid g-d-3 gap-2">';
 		echo '<div class="col-1">'; ?>
 
 		<div id="text-2" class="widget footer-col widget_text"><h4 class="widget-title widget-title-footer">Kontakt skolen</h4>			<div class="textwidget"><p>Næstvedvej 349 B<br>
