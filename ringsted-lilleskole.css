@@ -60,6 +60,10 @@ h1,h2,h3,h4,h5,h6 {
  font-family: 'Architects Daughter', cursive;
  font-weight: 400;
 }
+.widget-title {
+    font-weight: 400;
+    font-size: 1.3rem;
+}
 .name {
   text-align: center;
   flex: 1;
