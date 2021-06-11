@@ -90,8 +90,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0; }
 
 .sticky-header {
-  box-shadow: none;
-  border-bottom: 1px solid #be1e2d38; }
+  box-shadow: none; }
 
 .intranet-menu {
   display: flex;
@@ -148,7 +147,6 @@ h1, h2, h3, h4, h5, h6 {
     align-self: flex-end;
     font-size: .9rem;
     text-transform: uppercase;
-    border-top: 1px solid #a5a5a5;
     font-family: 'Asap Condensed', sans-serif; }
   .menu .has-sub {
     background-image: url(img/has-sub.svg); } }
