@@ -59,7 +59,7 @@ get_template_part('template-parts/content/page', 'article'); ?>
 </section>
 
 <section class="bg-color-1">
-	<div class="wrap grid g-d-3 gap-4 pad-4">
+	<div class="wrap grid g-d-3 gap-2 pad-4">
 		<div class="column">
 
 		<h4 class="widget-title">Ny elev</h4>
@@ -92,7 +92,7 @@ get_template_part('template-parts/content/page', 'article'); ?>
 			<p>Elementum! Consectetuer est ex accumsan pulvinar, gravida non commodi risus! Mi pretium. Quae orci quo mi. Netus ullam netus mauris magni reprehenderit ac molestie sequi! Ea molestiae quo, aute! Impedit dicta porttitor asperiores, molestie molestias elit excepteur quis habitasse! Conubia.</p>
 			<p class="read-more"><a href="#">Læs mere</a></p>
 		</div>
-		<div class="col">
+		<div class="column">
 			<h4 class="widget-title">Personalet</h4>
 			<img src="https://images.pexels.com/photos/1595387/pexels-photo-1595387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
 			<p>Elementum! Consectetuer est ex accumsan pulvinar, gravida non commodi risus! Mi pretium. Quae orci quo mi. Netus ullam netus mauris magni reprehenderit ac molestie sequi! Ea molestiae quo, aute! Impedit dicta porttitor asperiores, molestie molestias elit excepteur quis habitasse! Conubia.</p>
