@@ -34,3 +34,9 @@ function ringsted_intra_link() {
 
 function web_social_menu()
     { }
+
+// Google fonts
+add_action( 'wp_enqueue_scripts', 'my_google_fonts' );
+function my_google_fonts() {
+    wp_enqueue_style( 'my-google-fonts', 'https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Asap+Condensed&display=swap', false ); 
+}

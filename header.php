@@ -6,8 +6,6 @@
 <?php wp_head();?>
 <link href="<?php bloginfo('stylesheet_url');?>" rel="stylesheet" />
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Asap+Condensed&display=swap" rel="stylesheet">
 </head>
 
 <body <?php body_class();?>>
