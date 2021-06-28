@@ -4,14 +4,6 @@ get_header();
 
 ?>
 
-<section class="parallax front-parallax aligner">
-	<div class="wrap flex">
-
-				<h3 class="f-xxl f-xxxl-desk">Ringsted lilleskole<br />- fordi vores børn er vigtige</h3>
-
-	</div>
-</section>
-
 <?php 
 
 get_template_part('template-parts/content/page', 'article'); ?>
