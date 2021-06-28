@@ -153,13 +153,8 @@ h1, h2, h3, h4, h5, h6 {
   .menu .has-sub {
     background-image: url(img/has-sub.svg); } }
 
-.parallax:not(.chunk-banner) {
-  background-image: url(img/ringsted-parallax.jpg);
-  color: #fff;
-  text-align: right;
-  text-shadow: 1px 1px #7d7c7c; }
 
-.front-parallax h3 {
+#chunk-id-152 h3 {
   color: #fff; }
 
 .page-footer .menu li {
