@@ -2,11 +2,12 @@
 
 
 // CSS
-
 function web_child_enqueue_styles() {
-   wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );
+    wp_enqueue_style( 'web', get_template_directory_uri() . '/style.css' , array(), filemtime(get_template_directory() . '/style.css'), false);
+    wp_enqueue_style( 'child-style', get_stylesheet_directory_uri() . '/style.css', array( 'web' ), filemtime(get_template_directory() . '/style.css'), false);
 }
 add_action( 'wp_enqueue_scripts', 'web_child_enqueue_styles' );
+
 
 // Header style
 function web_header_style() {
