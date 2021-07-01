@@ -71,11 +71,15 @@ h1,h2,h3,h4,h5,h6 {
   text-align: center;
   flex: 1;
   font-size: 1.2rem;
-  text-transform: uppercase;
   color: #be1e2d;
-  max-width: 125px;
+  max-width: 150px;
   margin-right: 2rem;
   font-family: 'Architects Daughter', cursive;
+}
+.name span {
+    display: block;
+    font-size: .9rem;
+    font-family: "Source Sans Pro",sans-serif;
 }
 .logo {
     margin-bottom: 1rem;

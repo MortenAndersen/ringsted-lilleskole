@@ -71,11 +71,15 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   flex: 1;
   font-size: 1.2rem;
-  text-transform: uppercase;
   color: #be1e2d;
-  max-width: 125px;
+  max-width: 150px;
   margin-right: 2rem;
   font-family: 'Architects Daughter', cursive; }
+
+.name span {
+  display: block;
+  font-size: .9rem;
+  font-family: "Source Sans Pro",sans-serif; }
 
 .logo {
   margin-bottom: 1rem; }
@@ -153,12 +157,14 @@ h1, h2, h3, h4, h5, h6 {
   .menu .has-sub {
     background-image: url(img/has-sub.svg); } }
 
+.front-parallax {
+  background-image: url(img/ringsted-parallax.jpg);
+  color: #fff;
+  text-align: right;
+  text-shadow: 1px 1px #7d7c7c; }
 
-#chunk-id-152 h3 {
+.front-parallax h3 {
   color: #fff; }
 
 .page-footer .menu li {
   border-bottom: 1px solid #bfbfbf; }
-  #custom_html-4 {
-    background:  #fff;
-  }
