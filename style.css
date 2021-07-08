@@ -62,10 +62,23 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Architects Daughter', cursive;
   font-weight: 400; }
 
+article h1, article h2, article h3, article h4, article h5, article h6 {
+  font-family: inherit; }
+
+article h2 {
+  font-size: 1.6rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #be1e2d;
+  padding-bottom: .5rem; }
+
 .widget-title {
   font-weight: 400;
   font-size: 1.3rem;
   border-bottom: 1px solid #b3b3b3; }
+
+p:empty {
+  display: none; }
 
 .name {
   text-align: center;
