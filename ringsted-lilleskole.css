@@ -204,3 +204,6 @@ article h3 {}
 #chunk-id-152 {
     color: #fff;
 }
+.wp-block-file .wp-block-file__button {
+    background: var(--bg-color-1);
+}
