@@ -185,9 +185,6 @@ article h2 {
 .wp-block-file .wp-block-file__button {
   background: var(--bg-color-1); }
 
+#chunk-id-409 figure,
 #chunk-id-407 figure {
-  border: 3px solid #fff;
-  padding: 1rem; }
-
-#chunk-id-409 figure {
   margin: 0; }
