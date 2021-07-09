@@ -78,9 +78,6 @@ article h3 {}
     font-size: 1.3rem;
     border-bottom: 1px solid #b3b3b3;
 }
-p:empty {
-    display: none;
-}
 .name {
   text-align: center;
   flex: 1;
@@ -200,6 +197,9 @@ p:empty {
 }
 .front-parallax h3 {
     color: #fff;
+}
+.page-footer {
+    font-size: .9rem;
 }
 .page-footer .menu li {
     border-bottom: 1px solid #bfbfbf;
