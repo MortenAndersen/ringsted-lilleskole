@@ -66,9 +66,6 @@ article h1, article h2, article h3, article h4, article h5, article h6 {
     font-family: inherit;
 }
 article h2 {
-    font-size: 1.6rem;
-    margin-top: 3rem;
-    margin-bottom: 1.5rem;
     border-bottom: 1px solid #be1e2d;
     padding-bottom: .5rem;
 }
