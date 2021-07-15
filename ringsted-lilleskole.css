@@ -220,3 +220,6 @@ article h3 {}
     border-top: 5px solid #be1e2d;
     border-bottom: 3px solid #222;
 }
+.medlemmer-bestyrelsen .chunk-item .widget-title {
+    margin-top: auto;
+}
