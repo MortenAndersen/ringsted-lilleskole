@@ -200,3 +200,6 @@ article h2 {
 
 .medlemmer-bestyrelsen .chunk-item .widget-title {
   margin-top: auto; }
+
+.medlemmer-bestyrelsen.shadow .chunk-item-content {
+  padding: 1rem; }
