@@ -58,10 +58,7 @@
     --mobile-search-submit-bg: #999;
     --mobile-search-submit-font: #222;
 }
-h1,h2,h3,h4,h5,h6 {
- font-family: 'Architects Daughter', cursive;
- font-weight: 400;
-}
+
 article h1, article h2, article h3, article h4, article h5, article h6 {
     font-family: inherit;
 }
@@ -225,4 +222,7 @@ article h3 {}
 }
 .medlemmer-bestyrelsen.shadow .chunk-item-content {
     padding: 1rem;
+}
+.medlemmer-bestyrelsen img {
+    max-width: 100px;
 }
