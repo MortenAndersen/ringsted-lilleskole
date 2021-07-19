@@ -227,3 +227,6 @@ article h2 {
 .medlemmer-bestyrelsen img {
     max-width: 100px;
 }
+.chunk-item a:not(.post-edit-link) {
+    color: #be1e2d ;
+}
