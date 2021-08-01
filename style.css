@@ -98,9 +98,6 @@ article h2 {
 .page-header {
   padding: 0; }
 
-.sticky-header {
-  box-shadow: none; }
-
 .intranet-menu {
   display: flex;
   flex-direction: column;
