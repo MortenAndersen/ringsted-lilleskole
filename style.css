@@ -189,7 +189,6 @@ article h2 {
   padding: 1rem;
   background: #f0f0f0;
   border-top: 5px solid #be1e2d;
-  border-bottom: 3px solid #222;
   min-height: 135px; }
 
 .medlemmer-bestyrelsen .chunk-item .widget-title {
@@ -200,6 +199,10 @@ article h2 {
 
 .medlemmer-bestyrelsen img {
   max-width: 100px; }
+
+.medlemmer-bestyrelsen .widget-title {
+  border-bottom: none;
+  padding: 0; }
 
 .chunk-item .read-more a,
 li::marker {
