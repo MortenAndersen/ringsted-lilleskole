@@ -225,10 +225,13 @@ li::marker {
   padding: 0 5px !important;
   border-radius: 0 !important;
   border: none;
-  background: #9a1522; }
+  background: #9a1522;
+  color: #fff; }
 
 .top-search input[type=submit] {
-  background: #c8d3d4; }
+  background: var(--header-desktop);
+  color: var(--body-font);
+  cursor: pointer; }
 
 .top-search input[type=text]:focus {
-  background: #bb7178; }
+  background: #582529; }
