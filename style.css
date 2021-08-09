@@ -137,6 +137,10 @@ article h2 {
   align-items: center;
   display: none; }
 
+@media (min-width: 770px) {
+  .intranet-menu .social {
+    margin: 0; } }
+
 .intranet-menu .social a {
   width: 50px; }
 
@@ -207,3 +211,24 @@ article h2 {
 .chunk-item .read-more a,
 li::marker {
   color: #be1e2d; }
+
+.top-search {
+  margin-right: auto;
+  display: none; }
+
+@media (min-width: 770px) {
+  .top-search {
+    display: grid; } }
+
+.top-search input {
+  height: 35px;
+  padding: 0 5px !important;
+  border-radius: 0 !important;
+  border: none;
+  background: #9a1522; }
+
+.top-search input[type=submit] {
+  background: #c8d3d4; }
+
+.top-search input[type=text]:focus {
+  background: #bb7178; }

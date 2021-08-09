@@ -25,9 +25,17 @@ function ringsted_intra_link() {
         echo '<a href="http://www.ringsted-lilleskole.skoleintra.dk/Li" target="_blank" class="intra">PersonaleIntra</a>';
         echo '<a href="http://www.ringsted-lilleskole.skoleintra.dk/Fi" target="_blank" class="intra">ForældreIntra</a>';
         echo '<a href="http://www.ringsted-lilleskole.skoleintra.dk/Pi" target="_blank" class="intra">ElevIntra</a>';
+
+     
+
+        echo '<div class="top-search">';
+        get_search_form();
+        echo '</div>';
+
         echo '<div class="social">';
         echo '<a href="https://www.facebook.com/ringstedlilleskole" target="_blank"><img src="' . get_stylesheet_directory_uri() . '/img/facebook.svg" alt="Facebook"></a>';
-    echo '</div>';
+        echo '</div>';
+
     echo '</nav>';
 }
 
