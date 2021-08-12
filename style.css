@@ -8,7 +8,7 @@
  */
 :root {
   --body-bg: #f6f6f6;
-  --body-font: #f6f6f6;
+  --body-font: rgb(59, 67, 67);
   --header-phone: #c8d3d4;
   --header-tablet: #c8d3d4;
   --header-desktop: #c8d3d4;
