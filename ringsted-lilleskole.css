@@ -258,6 +258,7 @@ li::marker {
     background: var(--header-desktop);
     color: var(--body-font);
     cursor: pointer;
+    font-weight: 600;
 }
 .top-search input[type=text]:focus {
     background: #582529;
