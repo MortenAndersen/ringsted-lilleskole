@@ -237,3 +237,7 @@ li::marker {
 
 .top-search input[type=text]:focus {
   background: #582529; }
+
+#block-7 {
+  padding-top: 3rem;
+  padding-bottom: 3rem; }
