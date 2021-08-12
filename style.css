@@ -101,7 +101,8 @@ article h2 {
 .intranet-menu {
   display: flex;
   flex-direction: column;
-  background-color: var(--bg-color-1); }
+  background-color: var(--bg-color-1);
+  font-weight: 600; }
 
 @media (min-width: 500px) {
   .intranet-menu {
