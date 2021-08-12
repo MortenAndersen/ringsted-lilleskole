@@ -154,12 +154,12 @@ article h2 {
     display: flex; } }
 
 @media (min-width: 1100px) {
-  .menu {
+  .site-menu {
     align-self: flex-end;
     font-size: .9rem;
     text-transform: uppercase;
     font-family: 'Asap Condensed', sans-serif; }
-  .menu .has-sub {
+  .site-menu .has-sub {
     background-image: url(img/has-sub.svg); } }
 
 .front-parallax {
