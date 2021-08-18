@@ -9,6 +9,14 @@
 	],
 "creatorBuild": "33081",
 "files": {
+	"/front-page.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/front-page.php",
+		"oF": 0
+		},
 	"/functions.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -121,14 +129,6 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/OLD_front-page.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/OLD_front-page.php",
-		"oF": 0
-		},
 	"/ringsted-lilleskole.css": {
 		"aP": 1,
 		"bl": 0,
@@ -177,6 +177,14 @@
 		"oAP": "/style-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"/video/ringsted.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/video/ringsted.mp4",
+		"oF": 0
 		}
 	},
 "hooks": [
