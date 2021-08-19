@@ -244,4 +244,9 @@ li::marker {
 
 #block-7 .widget-title {
   font-size: 1.875rem;
-  font-family: inherit; }
+  font-family: inherit;
+  border: none; }
+
+#block-7 .widget-title::after {
+  content: ' :';
+  color: #be1e2d; }
