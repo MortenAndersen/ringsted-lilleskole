@@ -272,10 +272,6 @@ li::marker {
     font-family: inherit;
     border: none;
 }
-#block-7 .widget-title::after {
-    content: ' :';
-    color: #be1e2d;
-}
 #chunk-id-285 ul {
     margin-top: 0;
 }
