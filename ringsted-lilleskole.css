@@ -267,3 +267,7 @@ li::marker {
 #block-6 {
     background: #fff;
 }
+#block-7 .widget-title {
+    font-size: 1.875rem;
+    font-family: inherit;
+}
