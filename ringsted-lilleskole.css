@@ -276,3 +276,11 @@ li::marker {
     content: ' :';
     color: #be1e2d;
 }
+#chunk-id-285 ul {
+    margin-top: 0;
+}
+.home .entry-title {
+    border-bottom: 1px solid #d0d0d0;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+}
