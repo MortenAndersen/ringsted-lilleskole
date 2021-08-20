@@ -122,7 +122,7 @@ span.blog-desc {
 @media (min-width: 500px) {
   .intranet-menu a.intra {
     border-bottom: none;
-    border-left: 1px solid #fff; } }
+    border-left: 1px solid #ffffff; } }
 
 .intranet-menu a.intra:hover {
   background-color: rgba(0, 0, 0, 0.2); }

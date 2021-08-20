@@ -97,8 +97,6 @@ span.blog-desc {
     padding: 0;
 }
 
-
-
 .intranet-menu {
     display: flex;
     flex-direction: column;
@@ -134,7 +132,7 @@ span.blog-desc {
 @media (min-width: 500px) {
     .intranet-menu a.intra {
         border-bottom: none;
-        border-left: 1px solid #fff;
+        border-left: 1px solid #ffffff;
     }
 }
 
@@ -279,3 +277,4 @@ li::marker {
     margin-bottom: 2rem;
     padding-bottom: 1rem;
 }
+
