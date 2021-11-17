@@ -253,3 +253,18 @@ li::marker {
   border-bottom: 1px solid #d0d0d0;
   margin-bottom: 2rem;
   padding-bottom: 1rem; }
+
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+  font-size: .9rem;
+  color: #fff; }
+
+input::-moz-placeholder,
+textarea::-moz-placeholder {
+  font-size: .9rem;
+  color: #fff; }
+
+input:-ms-input-placeholder,
+textarea:-ms-input-placeholder {
+  font-size: .9rem;
+  color: #fff; }

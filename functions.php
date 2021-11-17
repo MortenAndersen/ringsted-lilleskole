@@ -20,6 +20,9 @@ function web_menu_pos()
         echo 'left-align';
     }
 
+
+    
+
 function ringsted_intra_link() {
     echo '<nav class="intranet-menu">';
         echo '<a href="http://www.ringsted-lilleskole.skoleintra.dk/Li" target="_blank" class="intra">PersonaleIntra</a>';
