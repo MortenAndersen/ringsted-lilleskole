@@ -239,8 +239,15 @@ li::marker {
   padding-bottom: 3rem; }
 
 #block-6 {
-  background: #fff; }
+  background: be1e2e;
+  color: #fff; }
 
+#block-6 .chunk-item .read-more a {
+  color: #fff;
+}
+#block-6 .widget-title {
+  border: none;
+}
 #block-7 .widget-title {
   font-size: 1.875rem;
   font-family: inherit;
